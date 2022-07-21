@@ -1,4 +1,3 @@
-### Hi there 👋
 
 :whale: Hi, I'm an undergrad double majoring in computer science and economics!
 - :art: portfolio: syk2021.github.io (still in development!)
