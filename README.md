@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+:whale: Hi, I'm an undergrad double majoring in computer science and economics!
+- :art: portfolio: syk2021.github.io (still in development!)
+- :computer: cs: currently studying systems programming & oop
+- :chart_with_upwards_trend: econ: currently studying general equilibrium theory & financial time series econometrics
+
 <!--
 **syk2021/syk2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
