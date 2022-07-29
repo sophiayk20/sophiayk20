@@ -3,7 +3,7 @@
 :whale: Hi, I'm an undergrad double majoring in computer science and economics!
 </p>
 <p align="center">
-:art: portfolio: syk2021.github.io
+:art: portfolio: syk2021.github.io (still in development!)
 </p>
 <p align="center">
 :computer: cs: currently studying systems programming & oop
