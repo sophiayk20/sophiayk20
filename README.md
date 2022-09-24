@@ -8,9 +8,6 @@
 <p align="center">
 :computer: cs: currently studying systems programming & oop
 </p>
-<p align="center">
-:chart_with_upwards_trend: econ: currently studying general equilibrium theory & financial time series econometrics
-</p>
 
 <!--
 **syk2021/syk2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
