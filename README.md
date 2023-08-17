@@ -9,7 +9,7 @@
   * :books: I enjoy helping out with computer science education initiatives at Yale. I have been a part of <i>Code Haven</i>, which teaches New Haven middle school students how to code, and have also been TAing for courses such as <i>CS50</i> (Intro to Computing & Programming) and <i>CS223</i> (Data Structures and Programming Techniques).
   * :computer: In my free time, you can find me studying human or nonhuman languages. I have recently been studying corpus text input into Tacotron models and have been focusing on how Spanish accents are reflected in phoneme representations..!
 
-  * :shamrock: <b>https://syk2021.github.io</b>
+  * :shamrock: my blog: <b>https://syk2021.github.io</b>
 </ul>
 
 <!--
