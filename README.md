@@ -3,6 +3,10 @@
 :whale: Hi! :seedling:
 </p>
 
+- Research Intern, Natural Language Processing @ MBZUAI (May 2024 - Jun. 2024 | Abu Dhabi Emirate, Abu Dhabi, United Arab Emirates)
+- AI Research Engineer Intern, NAVER Cloud (Jan. 2024 - Apr. 2024 | Seongnam, Gyeonggi, South Korea)
+- AI Research Engineer Intern, Samsung Electronics (Jun. 2023 - Aug. 2023 | Suwon, Gyeonggi, South Korea)
+
 <!--
 **syk2021/syk2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
