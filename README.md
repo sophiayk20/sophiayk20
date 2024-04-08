@@ -9,7 +9,7 @@
 - AI Research Engineer Intern, Speech Processing, Samsung Electronics (Jun. 2023 - Aug. 2023 | Suwon, Gyeonggi, South Korea)
 
 <b>Education :blue_book: </b>
-- Bachelor of Science, Yale University (2020.08 - 2025.05)
+- Bachelor of Science, Computer Science, Economics @ Yale University (2020.08 - 2025.05)
 
 <!--
 **syk2021/syk2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
