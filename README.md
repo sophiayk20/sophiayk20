@@ -1,6 +1,8 @@
 
 <p align="center">
-:whale: Hi! My name is Sophia and I am an undergrad studying computer science. :seedling:
+:whale: Hi! My name is Sophia and I am an undergrad student studying computer science.
+</p>
 
-Link to my GitHub profile: [link](https://sophiayk20.github.io)
+<p align='center'>
+:seedling: Link to my GitHub Page is [https://sophiayk20.github.io]
 </p>
