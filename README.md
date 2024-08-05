@@ -3,3 +3,4 @@
 - 👀 My interests involve multilingual speech and natural language processing and multimodal translation.
 - 📫 I can be reached at sophia.kang@yale.edu.
 - :seedling: Link to my GitHub Page is https://sophiayk20.github.io.
+- :globe_with_meridians: I speak three languages: English, Korean, and Spanish :)
