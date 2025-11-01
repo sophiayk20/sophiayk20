@@ -30,6 +30,9 @@ Employment
 - **Jun 2023 – Aug 2023:** Software Engineer Intern, ML @ Samsung Electronics :kr:  
   <sub><i>Text-to-Speech Acoustic Processing</i></sub>
 
+- **Aug 2022 - Dec 2023**: Teaching Assistant @ Yale University :us:    
+  <sub><i>Data Structures and Programming Techniques, Department of Computer Science</i></sub>
+
 Education
 ---
 - :mortar_board: Bachelor of Science in Computer Science, Economics @ Yale University
