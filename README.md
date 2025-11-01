@@ -14,7 +14,7 @@ Honors & Achievements
 - MBZUAI 2024 Undergraduate Research Internship Program Best Team @ Abu Dhabi, UAE :united_arab_emirates:
 - HackMIT 2022 Finalist @ Cambridge, Massachusetts, United States :us:
 
-- Publications: 2 ACL papers (2024 - only author, 2025 - team), 1 Interspeech paper (2025 - team)
+- Publications: 2 ACL papers (2024 - *only author*, 2025 - *team*), 1 Interspeech paper (2025 - *team*)
 
 Employment
 ---
