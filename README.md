@@ -9,7 +9,7 @@
 
 Honors & Achievements
 ---
-- ElevenLabs 2025 Worldwide Conversational AI Agents Hackathon NYC Chapter Track Winner @ New York, New York, United States :us:
+- ElevenLabs 2025 Worldwide Conversational Agents Hackathon NYC Chapter Track Winner @ New York, New York, United States :us:
 - ACL 2024 Student Research Workshop Travel Grant @ Bangkok, Thailand :thailand:
 - Interspeech 2024 Young Female Researchers in Speech Workshop Scholarship @ Kos, Greece :greece:
 - MBZUAI 2024 Undergraduate Research Internship Program Best Team @ Abu Dhabi, UAE :united_arab_emirates:
